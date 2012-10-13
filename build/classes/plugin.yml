@@ -9,3 +9,12 @@ commands:
    wowinfo:
       description: Gets info about class
       usage: /wowinfo     
+   wowcombat:
+      description: Turns combat on/off
+      usage: /wowcombat   
+   wowslow:
+      description: Slows yourself by a percentage
+      usage: /wowslow [percent] 
+   wowreload:
+      description: Reloads the config file.
+      usage: /wowreload       
