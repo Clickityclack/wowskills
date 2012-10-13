@@ -1,0 +1,11 @@
+name: wowskills
+main: wowskills.Wowskills
+version: 1
+
+commands:
+   wow:
+      description: Selects your class
+      usage: /wow [class]
+   wowinfo:
+      description: Gets info about class
+      usage: /wowinfo     
